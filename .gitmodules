@@ -1,9 +1,11 @@
 [submodule "src/cc/libbpf"]
 	path = src/cc/libbpf
 	url = https://github.com/zhihuacc/libbpf.git
+	branch = v1.3.0-commented
 [submodule "libbpf-tools/bpftool"]
 	path = libbpf-tools/bpftool
 	url = https://github.com/zhihuacc/bpftool.git
+	branch = v7.3.0-commented
 [submodule "libbpf-tools/blazesym"]
 	path = libbpf-tools/blazesym
 	url = https://github.com/libbpf/blazesym
